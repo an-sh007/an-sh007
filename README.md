@@ -18,7 +18,7 @@
 
 - 🎓 **Engineering Student** | IEEE SB Chair | FOSS Club Member
 - 🌟 Passionate about **Blockchain**, **AI/ML**, and **Web Development**
-- 🏆 Led projects like [Eye Disease Detection](https://github.com/your-project-link) & [Student Book Exchange Hub](https://github.com/your-project-link)
+- 🏆 Led projects like [Driving Game with OpenCV](https://github.com/your-project-link) & [Student Book Exchange Hub](https://github.com/your-project-link)
 - 💡 Always curious and eager to explore **cutting-edge technologies**
 
 ---
@@ -44,9 +44,8 @@
 
 | Project Name                                    | Description                                                                             | Technologies           | Repo Link                      |
 |------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------|---------------------------------|
-| **Eye Disease Detection**                      | Detect eye diseases using ML and Django                                              | Python, Django, ML     | [GitHub](https://github.com/your-project-link) |
+| **Driving Game with OpenCV**                   | Innovative car control system using OpenCV with real-life objects                      | Python, OpenCV         | [GitHub](https://github.com/your-project-link) |
 | **Student Book Exchange Hub**                  | Web app for college students to exchange books                                       | Django, HTML/CSS       | [GitHub](https://github.com/your-project-link) |
-| **Driving Game with OpenCV**                   | Innovative driving game using OpenCV for steering simulation                          | Python, OpenCV         | [GitHub](https://github.com/your-project-link) |
 
 ---
 
