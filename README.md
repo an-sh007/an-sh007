@@ -52,14 +52,55 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthushaji&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthushaji&show_icons=true&theme=radical&v=1" alt="GitHub Stats">
+  <!-- Header Section -->
+  <h1>Welcome to My GitHub Profile! 🚀</h1>
+  <p>Hi, I'm <strong>Ananthu Shaji</strong>, passionate about coding and technology. Here's a glimpse of my GitHub stats and activities!</p>
 
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananthushaji&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthushaji&layout=compact&theme=radical" alt="Top Languages">
+  <!-- Stats Section with Animation -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ananthushaji&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+      alt="GitHub Stats"
+      style="border-radius: 15px; margin: 10px; animation: float 3s infinite alternate;" />
+
+    <!-- GitHub Streak Card -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ananthushaji&theme=radical&hide_border=true" 
+      alt="GitHub Streak"
+      style="border-radius: 15px; margin: 10px; animation: float 4s infinite alternate;" />
+
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthushaji&layout=compact&theme=radical&hide_border=true" 
+      alt="Top Languages"
+      style="border-radius: 15px; margin: 10px; animation: float 5s infinite alternate;" />
+  </div>
+
+  <!-- Wave Animation -->
+  <div>
+    <img src="https://raw.githubusercontent.com/anathushaji/anathushaji/main/assets/wave.svg" alt="Wave Animation" style="width: 100%;"/>
+  </div>
+
+  <!-- Animated Text Section -->
+  <h2>🌟 Let's Connect and Collaborate!</h2>
+  <p>Open to contributions, discussions, and innovative projects.</p>
+
+  <!-- GitHub Profile Link -->
+  <a href="https://github.com/ananthushaji" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
+  </a>
 </div>
+
+<!-- CSS Animation for Floating Effect -->
+<style>
+@keyframes float {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-10px);
+  }
+}
+</style>
+
 
 ---
 
