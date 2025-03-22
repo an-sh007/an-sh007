@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Engineering Student** | IEEE SB Chair | FOSS Club Member
-- 🌟 Passionate about **Blockchain**, **AI/ML**, and **Web Development**
+- 🌟 Passionate about **Software Development**, **AI/ML**, and **Web Development**
 - 🏆 Led projects like [Driving Game with OpenCV](https://github.com/your-project-link) & [Student Book Exchange Hub](https://github.com/your-project-link)
 - 💡 Always curious and eager to explore **cutting-edge technologies**
 
