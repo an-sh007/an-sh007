@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url/banner.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ananthushaji/ananthushaji/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
@@ -49,61 +49,20 @@
 
 ---
 
-## 📈 GitHub Stats
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haveyoumetmiz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=haveyoumetmiz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haveyoumetmiz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-   
-  <!-- Animated Text Section -->
-  <h2>🌟 Let's Connect and Collaborate!</h2>
-  <p>Open to contributions, discussions, and innovative projects.</p>
-
-  <!-- GitHub Profile Link -->
-  <a href="https://github.com/ananthushaji" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
-  </a>
-</div>
-
-<!-- CSS Animation for Floating Effect -->
-<style>
-@keyframes float {
-  from {
-    transform: translateY(0px);
-  }
-  to {
-    transform: translateY(-10px);
-  }
-}
-</style>
-
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ananthu--shaji/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ananthu2003x16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ananthushaji" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ananthushaji.ananthushaji" alt="Visitor Count">
-</p>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-  <p>"<strong>Dream, Build, Innovate</strong>" 💡</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthushaji&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthushaji&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthushaji&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+```bash
+# Enable this GitHub Action on your repo
+# Create a `.github/workflows/snake.yml` file with the content below
