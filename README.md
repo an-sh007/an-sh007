@@ -51,34 +51,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <!-- Header Section -->
-  <h1>Welcome to My GitHub Profile! 🚀</h1>
-  <p>Hi, I'm <strong>Ananthu Shaji</strong>, passionate about coding and technology. Here's a glimpse of my GitHub stats and activities!</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=haveyoumetmiz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=haveyoumetmiz&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haveyoumetmiz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  <!-- Stats Section with Animation -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ananthushaji&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-      alt="GitHub Stats"
-      style="border-radius: 15px; margin: 10px; animation: float 3s infinite alternate;" />
-
-    <!-- GitHub Streak Card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ananthushaji&theme=radical&hide_border=true" 
-      alt="GitHub Streak"
-      style="border-radius: 15px; margin: 10px; animation: float 4s infinite alternate;" />
-
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthushaji&layout=compact&theme=radical&hide_border=true" 
-      alt="Top Languages"
-      style="border-radius: 15px; margin: 10px; animation: float 5s infinite alternate;" />
-  </div>
-
-  <!-- Wave Animation -->
-  <div>
-    <img src="https://raw.githubusercontent.com/anathushaji/anathushaji/main/assets/wave.svg" alt="Wave Animation" style="width: 100%;"/>
-  </div>
-
+   
   <!-- Animated Text Section -->
   <h2>🌟 Let's Connect and Collaborate!</h2>
   <p>Open to contributions, discussions, and innovative projects.</p>
