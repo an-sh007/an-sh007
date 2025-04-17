@@ -20,7 +20,12 @@
 - 💡 Always curious and eager to explore **cutting-edge technologies**
 
 ---
-
+## 🐍 GitHub Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haveyoumetmiz/haveyoumetmiz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haveyoumetmiz/haveyoumetmiz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/haveyoumetmiz/haveyoumetmiz/output/github-snake.svg" />
+</picture>
 ## 🚀 Skills
 
 ### Programming Languages:
@@ -35,6 +40,8 @@
 
 ### Others:
 - MERN Stack | AWS (Beginner) | Data Science | Problem-Solving
+
+- 
 
 ---
 
