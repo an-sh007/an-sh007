@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ananthu--shaji/" target="_blank">Ananthu Shaji</a> 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-  <strong>Welcome to my GitHub profile! Let's innovate and build together. 🚀</strong>
+  <strong>Welcome to my GitHub profile! Let's innovate and build togetherr. 🚀</strong>
 </p>
 
 ---
