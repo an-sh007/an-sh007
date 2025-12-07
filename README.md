@@ -7,7 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url/banner.png" alt="Profile Banner" width="100%">
+  <h1 align="center">LEARN • CODE • GROW</h1>
+
 </div>
 
 ---
